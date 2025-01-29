@@ -1,1 +1,1 @@
-# hifs_java
+# hifs-java
